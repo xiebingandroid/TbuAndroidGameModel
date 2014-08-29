@@ -6,3 +6,5 @@ debug/
 
 #ignore .DS_Store file
 .DS_Store
+
+gen/
